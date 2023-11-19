@@ -1,4 +1,4 @@
-# [RS-School CV](https://rs.school/)
+# [RS-School](https://rs.school/)
 
 # **Aliaksei Shebalin**
 
