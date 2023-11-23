@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+.avatar{
+width: 250px;
+border-radius: 25%;
+}
+#header {
+    background-color: #233142;
+    text-align: center;
+    padding: 10px;
+}
+
+#name {
+    margin-top: 10px;
+    color: #e3e3e3;
+}
+
+.content {
+    background-color: #455d7a;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    background-color: #455d7a;
+    border-radius: 5px;
+    color: #e3e3e3;
+}
+
+.job-name{
+    color: #e3e3e3;
+    text-decoration: underline;
+}
+
+#footer {
+    background-color: #f95959;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+#date {
+    font-size: 14px;
+    color: #e3e3e3;
+}
+.git-logo{
+    background-color: #f95959;
+    width: 70px;
+}
+.course-logo{
+    width: 70px;
+}
