@@ -37,6 +37,10 @@ nav a:hover {
     color: #f95959;
 }
 
+.abot-me-link{
+    color: #f95959;
+}
+
 #name {
     margin-top: 10px;
     color: #e3e3e3;
@@ -57,6 +61,9 @@ nav a:hover {
 .job-name{
     color: #e3e3e3;
     text-decoration: underline;
+}
+.project-style{
+    color: #f95959;
 }
 
 #footer {
