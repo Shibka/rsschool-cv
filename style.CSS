@@ -6,10 +6,35 @@ body {
 width: 250px;
 border-radius: 25%;
 }
+
 #header {
     background-color: #233142;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
+}
+nav {
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+justify-content: center;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #e3e3e3;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #f95959;
 }
 
 #name {
