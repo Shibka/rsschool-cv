@@ -1,1 +1,1 @@
-# [rsschool-cv](https://shibka.github.io/rsschool-cv/)
+# [rsschool-cv](hhttps://shibka.github.io/rsschool-cv/)
